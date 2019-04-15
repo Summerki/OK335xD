@@ -11,3 +11,5 @@
 
 https://www.cnblogs.com/qlqwjy/p/7746184.html
 在里面搜索 `第二个例子用` 找到方法
+
+解决在远程更新readme文档后本地git push 不上去的问题：https://www.cnblogs.com/yiduobaozhiblog1/p/9125465.html
